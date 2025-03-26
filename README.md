@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am undergraduate student at SLIIT.
+I am graduate student at SLIIT.
 
 * 🌍  I'm based in Colombo
 * ✉️  You can contact me at [nithyaravishini30@gmail.com](mailto:nithyaravishini30@gmail.com)
